@@ -10,4 +10,4 @@ Made with ❤ in india
 
 # you can see Live here 😎
 
-## 👉 [LIVE](https://rushi-food-restaurent-page.netlify.app/) 👈
+## 👉 [LIVE](https://rushi-paytm.netlify.app/) 👈
